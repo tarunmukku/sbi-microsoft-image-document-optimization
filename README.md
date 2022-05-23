@@ -1,0 +1,1 @@
+# sbi-microsoft-image-document-optimization
